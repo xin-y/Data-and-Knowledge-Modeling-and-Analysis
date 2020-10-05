@@ -15,3 +15,6 @@ PCA
 Clasic ML Method such as Random Forests or kernel SVM.
 CNNs
 ...
+
+Report: 
+https://app.crowdmark.com/score/fe87fea6-e720-4a54-a3f0-7e04c4e435e5
