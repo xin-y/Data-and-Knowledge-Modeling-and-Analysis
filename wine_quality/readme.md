@@ -13,11 +13,11 @@ using a variety of data point weighting schemes including
 • distance based weight with manhattan distance
 • distance based weight with euclidean distance
 
-2. Linear Dimensionality Reduction
+2: Linear Dimensionality Reduction
 • PCA
 • LDA
 
-3. Nonlinear Dimensionality Reduction
+3: Nonlinear Dimensionality Reduction
 • kernel PCA
 • Isomap
 • Locally Linear Embedding (LLE)
