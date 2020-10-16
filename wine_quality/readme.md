@@ -1,10 +1,3 @@
-Objectives.
-
-• Loading datasets and perform some basic data preprocessing.
-
-• Studying how to apply some of the methods discussed in class on different
-datasets. 
-
 1. Effect of Normalization, Feature Extraction and Distance Metrics
 Normalization: None vs. Z-score normalization
 Feature extraction: PCA and LDA
@@ -26,3 +19,13 @@ using a variety of data point weighting schemes including
 • Locally Linear Embedding (LLE)
 • Laplacian Eigenmap (sklearn.manifold.SpectralEmbedding)
 • t-SNE
+
+Objectives.
+
+• Loading datasets and perform some basic data preprocessing.
+
+• Studying how to apply some of the methods discussed in class on different
+datasets. 
+
+
+
